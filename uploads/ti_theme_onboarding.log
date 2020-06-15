@@ -1,0 +1,18 @@
+[22/Apr/2020:10:05:34] (ℹ️): WordPress Instance Info:
+[22/Apr/2020:10:05:34] (ℹ️): Home URL : http://lopex.cba.pl
+[22/Apr/2020:10:05:34] (ℹ️): Site URL : http://lopex.cba.pl
+[22/Apr/2020:10:05:34] (ℹ️): WordPress Version : 5.4
+[22/Apr/2020:10:05:34] (ℹ️): Onboarding Version : 1.8.2
+[22/Apr/2020:10:05:34] (ℹ️): Multisite : No
+[22/Apr/2020:10:05:34] (ℹ️): Server Info : Apache
+[22/Apr/2020:10:05:34] (ℹ️): PHP Version : 7.4.5
+[22/Apr/2020:10:05:34] (ℹ️): HTTPS : No
+[22/Apr/2020:10:05:34] (ℹ️): PHP Max Execution Time : 5
+[22/Apr/2020:10:05:34] (ℹ️): PHP Max Input Vars : 5000
+[22/Apr/2020:10:05:34] (ℹ️): Max Upload Size : 10485760
+[22/Apr/2020:10:05:34] (ℹ️): Plugins:
+[22/Apr/2020:10:05:34] (ℹ️): [PLUGIN] Elementor : v2.9.7 (Elementor.com)
+[22/Apr/2020:10:05:34] (ℹ️): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.5.3 (ThemeIsle)
+[22/Apr/2020:10:05:34] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.6 (Themeisle)
+[22/Apr/2020:10:05:34] (ℹ️): [PLUGIN] Ultimate Member : v2.1.5 (Ultimate Member)
+[22/Apr/2020:10:05:34] (ℹ️): [PLUGIN] WooCommerce : v4.0.1 (Automattic)
